@@ -14,6 +14,7 @@ My server is deployed on Heroku and could be found by the link https://infinite-
 
 TO RUN THE PROJECT:
 
-Send the following command in your terminal in order to run the client
+Send the following commands in your terminal in order to run the client
 
-    ant execute.client
+   ant install
+   ant execute.client
