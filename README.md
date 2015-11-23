@@ -17,4 +17,5 @@ TO RUN THE PROJECT:
 Send the following commands in your terminal in order to run the client
 
    ant install
+   
    ant execute.client
