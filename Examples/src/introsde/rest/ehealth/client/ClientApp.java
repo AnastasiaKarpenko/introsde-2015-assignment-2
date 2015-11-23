@@ -382,7 +382,7 @@ public class ClientApp {
         //         "http://localhost:5700/sdelab").build();
 
         return UriBuilder.fromUri(
-                "http://whispering-woodland-2346.herokuapp.com/sdelab").build();
+                "https://infinite-taiga-5831.herokuapp.com/sdelab").build();
         
     }    
     
