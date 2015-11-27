@@ -6,6 +6,15 @@ This is the description of the code for the assignment 2 for Introduction to Ser
 
 The requirements for assignment 2 can be found here: https://sites.google.com/a/unitn.it/introsde_2015-16/lab-sessions/assignments/assignment-2
 
+Technologies used:
+
+Java
+JSON/XML
+XPATH
+JAXB/Jackson
+Jersey
+JPA
+
 NOTES:
 
 For this assignment I worked alone (not in pairs).
