@@ -8,12 +8,8 @@ The requirements for assignment 2 can be found here: https://sites.google.com/a/
 
 Technologies used:
 
-Java
-JSON/XML
-XPATH
-JAXB/Jackson
-Jersey
-JPA
+Java, JSON/XML, XPATH, JAXB/Jackson, Jersey, JPA
+
 
 NOTES:
 
